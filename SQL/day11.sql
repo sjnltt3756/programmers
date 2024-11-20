@@ -1,0 +1,1 @@
+SELECT DR_NAME,DR_ID,MCDP_CD,DATE_FORMAT(HIRE_YMD, '%Y-%m-%d') AS HIRE_YMD from doctor where mcdp_cd = "CS" or mcdp_cd = "GS" ORDER BY HIRE_YMD DESC

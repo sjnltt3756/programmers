@@ -1,0 +1,1 @@
+SELECT fh.flavor as FLAVOR from FIRST_HALF as fh join ICECREAM_INFO as ii on fh.flavor = ii.flavor where total_order > 3000 and INGREDIENT_TYPE = 'fruit_based' order by total_order desc

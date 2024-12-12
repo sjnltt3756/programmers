@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="035961c8-15ea-4820-9092-dc1ef6d46752" name="변경" comment=".." />
+    <list default="true" id="035961c8-15ea-4820-9092-dc1ef6d46752" name="변경" comment="조건에 부합하는 중고거래 댓글 조회하기">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,34 +22,42 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "sjnltt3756"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;sjnltt3756&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/sjnltt3756/programmers.git",
-    "accountId": "c413b179-ae2d-4ee1-8e1f-1e34ff43a52c"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/sjnltt3756/programmers.git&quot;,
+    &quot;accountId&quot;: &quot;c413b179-ae2d-4ee1-8e1f-1e34ff43a52c&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2okevAmestbLo9WOJYJnjbgSD10" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.day1.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.day1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day4.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/C++" />
+      <recent name="$PROJECT_DIR$/python" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -64,45 +74,427 @@
       <option name="presentableId" value="Default" />
       <updated>1731418229492</updated>
     </task>
-    <task id="LOCAL-00001" summary="first">
+    <task id="LOCAL-00046" summary="양꼬치">
       <option name="closed" value="true" />
-      <created>1731418270673</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
+      <created>1732166130305</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
       <option name="project" value="LOCAL" />
-      <updated>1731418270673</updated>
+      <updated>1732166130305</updated>
     </task>
-    <task id="LOCAL-00002" summary="..">
+    <task id="LOCAL-00047" summary="양꼬치">
       <option name="closed" value="true" />
-      <created>1731418958534</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
+      <created>1732166132642</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
       <option name="project" value="LOCAL" />
-      <updated>1731418958534</updated>
+      <updated>1732166132642</updated>
     </task>
-    <task id="LOCAL-00003" summary="두 수의 곱">
+    <task id="LOCAL-00048" summary="가장 비싼 상품 구하기">
       <option name="closed" value="true" />
-      <created>1731418968827</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
+      <created>1732166147016</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
       <option name="project" value="LOCAL" />
-      <updated>1731418968827</updated>
+      <updated>1732166147016</updated>
     </task>
-    <task id="LOCAL-00004" summary="..">
+    <task id="LOCAL-00049" summary="인기있는 아이스크림">
       <option name="closed" value="true" />
-      <created>1731419507347</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
+      <created>1732271561566</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
       <option name="project" value="LOCAL" />
-      <updated>1731419507347</updated>
+      <updated>1732271561566</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00050" summary="세균 증식">
+      <option name="closed" value="true" />
+      <created>1732272051899</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1732272051900</updated>
+    </task>
+    <task id="LOCAL-00051" summary="세균 증식">
+      <option name="closed" value="true" />
+      <created>1732272057387</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1732272057387</updated>
+    </task>
+    <task id="LOCAL-00052" summary="짝수 홀수 개수">
+      <option name="closed" value="true" />
+      <created>1732433406951</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1732433406951</updated>
+    </task>
+    <task id="LOCAL-00053" summary="짝수 홀수 개수">
+      <option name="closed" value="true" />
+      <created>1732433409376</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1732433409376</updated>
+    </task>
+    <task id="LOCAL-00054" summary="12세 이하인 여자 환자 목록 출력하기">
+      <option name="closed" value="true" />
+      <created>1732434718223</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1732434718223</updated>
+    </task>
+    <task id="LOCAL-00055" summary="점의 위치 구하기">
+      <option name="closed" value="true" />
+      <created>1732536950322</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1732536950323</updated>
+    </task>
+    <task id="LOCAL-00056" summary="점의 위치 구하기">
+      <option name="closed" value="true" />
+      <created>1732536953130</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1732536953130</updated>
+    </task>
+    <task id="LOCAL-00057" summary="조건에 맞는 도서 리스트 출력하기">
+      <option name="closed" value="true" />
+      <created>1732536963375</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1732536963375</updated>
+    </task>
+    <task id="LOCAL-00058" summary="모든 레코드 조회하기">
+      <option name="closed" value="true" />
+      <created>1732772997845</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1732772997845</updated>
+    </task>
+    <task id="LOCAL-00059" summary="편지">
+      <option name="closed" value="true" />
+      <created>1732773574077</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1732773574077</updated>
+    </task>
+    <task id="LOCAL-00060" summary="편지">
+      <option name="closed" value="true" />
+      <created>1732773579865</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1732773579865</updated>
+    </task>
+    <task id="LOCAL-00061" summary="평균 일일 대여 요금 구하기">
+      <option name="closed" value="true" />
+      <created>1732846636457</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1732846636457</updated>
+    </task>
+    <task id="LOCAL-00062" summary="배열 원소의 길이">
+      <option name="closed" value="true" />
+      <created>1732846643911</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1732846643911</updated>
+    </task>
+    <task id="LOCAL-00063" summary="배열 원소의 길이">
+      <option name="closed" value="true" />
+      <created>1732846646052</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1732846646052</updated>
+    </task>
+    <task id="LOCAL-00064" summary="과일로 만든 아이스크림 고르기">
+      <option name="closed" value="true" />
+      <created>1732930996297</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1732930996297</updated>
+    </task>
+    <task id="LOCAL-00065" summary="배열 자르기">
+      <option name="closed" value="true" />
+      <created>1732932305520</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1732932305520</updated>
+    </task>
+    <task id="LOCAL-00066" summary="배열 자르기">
+      <option name="closed" value="true" />
+      <created>1732932309718</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1732932309718</updated>
+    </task>
+    <task id="LOCAL-00067" summary="중복된 숫자 개수">
+      <option name="closed" value="true" />
+      <created>1733019663872</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1733019663872</updated>
+    </task>
+    <task id="LOCAL-00068" summary="중복된 숫자 개수">
+      <option name="closed" value="true" />
+      <created>1733019665861</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1733019665861</updated>
+    </task>
+    <task id="LOCAL-00069" summary="잔챙이 잡은 수 구하기">
+      <option name="closed" value="true" />
+      <created>1733019945148</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1733019945148</updated>
+    </task>
+    <task id="LOCAL-00070" summary="잡은 물고기 중 가장 큰 물고기의 길이 구하기">
+      <option name="closed" value="true" />
+      <created>1733127066434</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1733127066434</updated>
+    </task>
+    <task id="LOCAL-00071" summary="문자열 붙여서 출력하기">
+      <option name="closed" value="true" />
+      <created>1733127781405</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1733127781405</updated>
+    </task>
+    <task id="LOCAL-00072" summary="문자열 붙여서 출력하기">
+      <option name="closed" value="true" />
+      <created>1733127783170</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1733127783170</updated>
+    </task>
+    <task id="LOCAL-00073" summary="문자열 안에 문자열">
+      <option name="closed" value="true" />
+      <created>1733191846695</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1733191846695</updated>
+    </task>
+    <task id="LOCAL-00074" summary="문자열 안에 문자열">
+      <option name="closed" value="true" />
+      <created>1733191848834</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1733191848834</updated>
+    </task>
+    <task id="LOCAL-00075" summary="특정 옵션이 포함된 자동차 리스트 구하기">
+      <option name="closed" value="true" />
+      <created>1733192326722</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1733192326722</updated>
+    </task>
+    <task id="LOCAL-00076" summary="Python 개발자 찾기">
+      <option name="closed" value="true" />
+      <created>1733275288742</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1733275288742</updated>
+    </task>
+    <task id="LOCAL-00077" summary="문자 반복 출력하기">
+      <option name="closed" value="true" />
+      <created>1733276741631</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1733276741631</updated>
+    </task>
+    <task id="LOCAL-00078" summary="문자 반복 출력하기">
+      <option name="closed" value="true" />
+      <created>1733276745454</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1733276745455</updated>
+    </task>
+    <task id="LOCAL-00079" summary="머쓱이보다 키 큰 사람">
+      <option name="closed" value="true" />
+      <created>1733362307019</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1733362307020</updated>
+    </task>
+    <task id="LOCAL-00080" summary="머쓱이보다 키 큰 사람">
+      <option name="closed" value="true" />
+      <created>1733362310560</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1733362310560</updated>
+    </task>
+    <task id="LOCAL-00081" summary="최대값 구하기">
+      <option name="closed" value="true" />
+      <created>1733362999076</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1733362999077</updated>
+    </task>
+    <task id="LOCAL-00082" summary="한 해에 잡은 물고기 수 구하기">
+      <option name="closed" value="true" />
+      <created>1733456508430</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1733456508431</updated>
+    </task>
+    <task id="LOCAL-00083" summary="최댓값 만들기(1)">
+      <option name="closed" value="true" />
+      <created>1733457931939</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1733457931939</updated>
+    </task>
+    <task id="LOCAL-00084" summary="최댓값 만들기(1)">
+      <option name="closed" value="true" />
+      <created>1733457934171</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1733457934171</updated>
+    </task>
+    <task id="LOCAL-00085" summary="피자 나눠 먹기 (3)">
+      <option name="closed" value="true" />
+      <created>1733583301004</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1733583301004</updated>
+    </task>
+    <task id="LOCAL-00086" summary="피자 나눠 먹기 (3)">
+      <option name="closed" value="true" />
+      <created>1733583303430</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1733583303431</updated>
+    </task>
+    <task id="LOCAL-00087" summary="잡은 물고기의 평균 길이 구하기">
+      <option name="closed" value="true" />
+      <created>1733584722703</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1733584722703</updated>
+    </task>
+    <task id="LOCAL-00088" summary="자동차 대여 기록에서 장기/단기 대여 구분하기">
+      <option name="closed" value="true" />
+      <created>1733649687126</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1733649687126</updated>
+    </task>
+    <task id="LOCAL-00089" summary="특정 문자 제거하기">
+      <option name="closed" value="true" />
+      <created>1733650680198</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1733650680198</updated>
+    </task>
+    <task id="LOCAL-00090" summary="특정 문자 제거하기">
+      <option name="closed" value="true" />
+      <created>1733650682418</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1733650682418</updated>
+    </task>
+    <task id="LOCAL-00091" summary="제곱수 판별하기">
+      <option name="closed" value="true" />
+      <created>1733722980133</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1733722980134</updated>
+    </task>
+    <task id="LOCAL-00092" summary="제곱수 판별하기">
+      <option name="closed" value="true" />
+      <created>1733722982248</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1733722982248</updated>
+    </task>
+    <task id="LOCAL-00093" summary="가장 큰 물고기 10마리 구하기">
+      <option name="closed" value="true" />
+      <created>1733723430976</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1733723430977</updated>
+    </task>
+    <task id="LOCAL-00094" summary="조건에 부합하는 중고거래 댓글 조회하기">
+      <option name="closed" value="true" />
+      <created>1733884685847</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1733884685847</updated>
+    </task>
+    <option name="localTasksCounter" value="95" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="first" />
-    <MESSAGE value="두 수의 곱" />
-    <MESSAGE value=".." />
-    <option name="LAST_COMMIT_MESSAGE" value=".." />
+    <MESSAGE value="모든 레코드 조회하기" />
+    <MESSAGE value="편지" />
+    <MESSAGE value="평균 일일 대여 요금 구하기" />
+    <MESSAGE value="배열 원소의 길이" />
+    <MESSAGE value="과일로 만든 아이스크림 고르기" />
+    <MESSAGE value="배열 자르기" />
+    <MESSAGE value="중복된 숫자 개수" />
+    <MESSAGE value="잔챙이 잡은 수 구하기" />
+    <MESSAGE value="잡은 물고기 중 가장 큰 물고기의 길이 구하기" />
+    <MESSAGE value="문자열 붙여서 출력하기" />
+    <MESSAGE value="문자열 안에 문자열" />
+    <MESSAGE value="특정 옵션이 포함된 자동차 리스트 구하기" />
+    <MESSAGE value="Python 개발자 찾기" />
+    <MESSAGE value="문자 반복 출력하기" />
+    <MESSAGE value="머쓱이보다 키 큰 사람" />
+    <MESSAGE value="최대값 구하기" />
+    <MESSAGE value="한 해에 잡은 물고기 수 구하기" />
+    <MESSAGE value="최댓값 만들기(1)" />
+    <MESSAGE value="피자 나눠 먹기 (3)" />
+    <MESSAGE value="잡은 물고기의 평균 길이 구하기" />
+    <MESSAGE value="자동차 대여 기록에서 장기/단기 대여 구분하기" />
+    <MESSAGE value="특정 문자 제거하기" />
+    <MESSAGE value="제곱수 판별하기" />
+    <MESSAGE value="가장 큰 물고기 10마리 구하기" />
+    <MESSAGE value="조건에 부합하는 중고거래 댓글 조회하기" />
+    <option name="LAST_COMMIT_MESSAGE" value="조건에 부합하는 중고거래 댓글 조회하기" />
   </component>
 </project>

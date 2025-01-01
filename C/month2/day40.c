@@ -6,10 +6,9 @@
 char* solution(const char* my_string, int k) {
     // return 값은 malloc 등 동적 할당을 사용해주세요. 할당 길이는 상황에 맞게 변경해주세요.
     char* answer = (char*)malloc(strlen(my_string)*k+1);
-    answer[0]='\0';
+    answer[0]='\0'; // answer를 빈 문자열로 설정
     for(int i = 0; i < k; i++){
         strcat(answer, my_string);
     }
-
     return answer;
 }
